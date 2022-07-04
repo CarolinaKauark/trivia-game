@@ -94,3 +94,9 @@
     background-position-y: 5500px;
   }
 }
+
+@media screen and (max-width: 600px) {
+  .login__container__form {
+    width: 350px;
+  }
+}
