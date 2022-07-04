@@ -46,3 +46,53 @@
     }
   }
 }
+
+@media screen and (max-width: 600px) {
+  .header__container {
+    height: 60px;
+    background: #ffffff36;
+    width: 100%;
+    border-right: 3px solid #fff;
+    &__aside {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 1rem;
+      color: #fff;
+  
+      img {
+        width: 50px;
+        height: 50px;
+        margin: 5px 0;
+        border-radius: 50%;
+      }
+  
+      &__playerName {
+        span {
+          @include headings(36px, 600, 20px);
+          display: inline;
+        }
+      }
+  
+      &__playerScore {
+        margin-top: 0;
+  
+        span, p {
+          display: inline;
+          font-size: 15px;
+          margin: 0 10px;
+        }
+  
+        span {
+          text-align: center;
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .header__container__aside__playerName span {
+    font-size: 15px 
+  }
+}

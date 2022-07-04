@@ -9,7 +9,7 @@
   background-attachment: fixed;
   color: #fff;
   display: flex;
-
+  overflow-x: hidden;
   &__question__container {
     display: flex;
     width: 100%;
@@ -49,5 +49,45 @@
       background: #fff;
       color: $black-dark;
     }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .game__container {
+    display: flex;
+    flex-direction: column;
+  
+    &__timer__container {
+      margin-top: 30px;
+  
+      h1 {
+        font-size: 30px;
+        margin: 10px;
+      }
+    }
+  }
+  .question__container__questionText {
+    font-size: 15px;
+    margin: 0;
+  }
+  .question__container__category {
+    font-size: 25px;
+    margin: 10px 50px;
+  }
+  .game__container__timer__container img{
+    width: 50px;
+  }
+  .wrong {
+    font-size: 15px;
+    margin: 0;
+  }
+  .correct {
+    font-size: 15px;
+    margin: 0;
+  }
+  .question__container__buttons__container {
+    margin: 30px;
+    margin-bottom: 50px;
+    gap: 20px;
   }
 }
