@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.1b3e03eb.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.a5536d22.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.a5536d22.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.4554fbf3.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.4554fbf3.js.map",
+    "static/js/2.88c39c1b.chunk.js": "/react-gh-pages/static/js/2.88c39c1b.chunk.js",
+    "static/js/2.88c39c1b.chunk.js.map": "/react-gh-pages/static/js/2.88c39c1b.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.a403f96bf615871f77ca761370c224ef.js": "/react-gh-pages/precache-manifest.a403f96bf615871f77ca761370c224ef.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.1b3e03eb.chunk.css.map": "/react-gh-pages/static/css/main.1b3e03eb.chunk.css.map",
+    "static/js/2.88c39c1b.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.88c39c1b.chunk.js.LICENSE.txt",
+    "static/media/Ranking.scss": "/react-gh-pages/static/media/blur.1e39fcc3.svg",
+    "static/media/clock-danger.svg": "/react-gh-pages/static/media/clock-danger.04a8e1fd.svg",
+    "static/media/clock.svg": "/react-gh-pages/static/media/clock.1c1d5a05.svg",
+    "static/media/Login.scss": "/react-gh-pages/static/media/trivia-neon.69ffdcea.svg",
+    "static/media/happy-feedback.svg": "/react-gh-pages/static/media/happy-feedback.61ae0a25.svg",
+    "static/media/sad-feedback.svg": "/react-gh-pages/static/media/sad-feedback.35de1fda.svg",
+    "static/media/trophy.svg": "/react-gh-pages/static/media/trophy.21bade0f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4554fbf3.js",
+    "static/js/2.88c39c1b.chunk.js",
+    "static/css/main.1b3e03eb.chunk.css",
+    "static/js/main.a5536d22.chunk.js"
+  ]
+}
