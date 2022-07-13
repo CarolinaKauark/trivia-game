@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.1b3e03eb.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.6ceb3c59.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.6ceb3c59.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.4554fbf3.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.4554fbf3.js.map",
-    "static/js/2.88c39c1b.chunk.js": "/react-gh-pages/static/js/2.88c39c1b.chunk.js",
-    "static/js/2.88c39c1b.chunk.js.map": "/react-gh-pages/static/js/2.88c39c1b.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.0ad5f0ea9182c4155ed7670478e73533.js": "/react-gh-pages/precache-manifest.0ad5f0ea9182c4155ed7670478e73533.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.1b3e03eb.chunk.css.map": "/react-gh-pages/static/css/main.1b3e03eb.chunk.css.map",
-    "static/js/2.88c39c1b.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.88c39c1b.chunk.js.LICENSE.txt",
-    "static/media/Ranking.scss": "/react-gh-pages/static/media/blur.1e39fcc3.svg",
-    "static/media/clock-danger.svg": "/react-gh-pages/static/media/clock-danger.04a8e1fd.svg",
-    "static/media/clock.svg": "/react-gh-pages/static/media/clock.1c1d5a05.svg",
-    "static/media/Login.scss": "/react-gh-pages/static/media/trivia-neon.69ffdcea.svg",
-    "static/media/happy-feedback.svg": "/react-gh-pages/static/media/happy-feedback.61ae0a25.svg",
-    "static/media/sad-feedback.svg": "/react-gh-pages/static/media/sad-feedback.35de1fda.svg",
-    "static/media/trophy.svg": "/react-gh-pages/static/media/trophy.21bade0f.svg"
+    "main.css": "/trivia-game/static/css/main.a615086d.chunk.css",
+    "main.js": "/trivia-game/static/js/main.90854e0e.chunk.js",
+    "main.js.map": "/trivia-game/static/js/main.90854e0e.chunk.js.map",
+    "runtime-main.js": "/trivia-game/static/js/runtime-main.c033e8d2.js",
+    "runtime-main.js.map": "/trivia-game/static/js/runtime-main.c033e8d2.js.map",
+    "static/js/2.88c39c1b.chunk.js": "/trivia-game/static/js/2.88c39c1b.chunk.js",
+    "static/js/2.88c39c1b.chunk.js.map": "/trivia-game/static/js/2.88c39c1b.chunk.js.map",
+    "index.html": "/trivia-game/index.html",
+    "precache-manifest.e216c14605f16d22efccb11b6c5cd7a2.js": "/trivia-game/precache-manifest.e216c14605f16d22efccb11b6c5cd7a2.js",
+    "service-worker.js": "/trivia-game/service-worker.js",
+    "static/css/main.a615086d.chunk.css.map": "/trivia-game/static/css/main.a615086d.chunk.css.map",
+    "static/js/2.88c39c1b.chunk.js.LICENSE.txt": "/trivia-game/static/js/2.88c39c1b.chunk.js.LICENSE.txt",
+    "static/media/Ranking.scss": "/trivia-game/static/media/blur.1e39fcc3.svg",
+    "static/media/clock-danger.svg": "/trivia-game/static/media/clock-danger.04a8e1fd.svg",
+    "static/media/clock.svg": "/trivia-game/static/media/clock.1c1d5a05.svg",
+    "static/media/Login.scss": "/trivia-game/static/media/trivia-neon.69ffdcea.svg",
+    "static/media/happy-feedback.svg": "/trivia-game/static/media/happy-feedback.61ae0a25.svg",
+    "static/media/sad-feedback.svg": "/trivia-game/static/media/sad-feedback.35de1fda.svg",
+    "static/media/trophy.svg": "/trivia-game/static/media/trophy.21bade0f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4554fbf3.js",
+    "static/js/runtime-main.c033e8d2.js",
     "static/js/2.88c39c1b.chunk.js",
-    "static/css/main.1b3e03eb.chunk.css",
-    "static/js/main.6ceb3c59.chunk.js"
+    "static/css/main.a615086d.chunk.css",
+    "static/js/main.90854e0e.chunk.js"
   ]
 }
