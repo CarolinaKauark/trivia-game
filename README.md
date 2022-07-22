@@ -6,3 +6,5 @@ Developed in group, using Kanban and Scrum methodologies by:
 - Giovanna Morais
 - Carolina Kauark
 - Giovane Saes
+
+https://carolinakauark.github.io/trivia-game/
